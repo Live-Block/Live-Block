@@ -7,4 +7,4 @@
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-14/)
 
 ### 设备
-[![Honor 7X](https://img.shields.io/badge/Honor 7X-000000?style=flat-square&logo=huawei&logoColor=red&labelColor=)](https://detail.zol.com.cn/1184/1183521/param.shtml)
+[![Honor 7X](https://img.shields.io/badge/Honor%207X-000000?style=flat-square&logo=huawei&logoColor=red&labelColor=)](https://detail.zol.com.cn/1184/1183521/param.shtml)
