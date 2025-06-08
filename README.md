@@ -8,3 +8,4 @@
 
 ### 设备
 [![Honor 7X](https://img.shields.io/badge/Honor%207X-000000?style=flat-square&logo=huawei&logoColor=red&labelColor=)](https://detail.zol.com.cn/1184/1183521/param.shtml)
+[![Meizu 21 Note](https://img.shields.io/badge/Meizu%2021%20Note-white?style=flat-square&logo=meizu)](https://m.meizu.com/21note/summary)
